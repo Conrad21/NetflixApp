@@ -1,0 +1,20 @@
+C:\Users\Conrad\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csprojResolveAssemblyReference.cache
+C:\Users\Conrad\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Form1.resources
+C:\Users\Conrad\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Properties.Resources.resources
+C:\Users\Conrad\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.GenerateResource.cache
+C:\Users\Conrad\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.CoreCompileInputs.cache
+C:\Users\Conrad\Desktop\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe.config
+C:\Users\Conrad\Desktop\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe
+C:\Users\Conrad\Desktop\NetflixApp\NetflixApp\bin\Debug\NetflixApp.pdb
+C:\Users\Conrad\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.exe
+C:\Users\Conrad\Desktop\NetflixApp\NetflixApp\obj\Debug\NetflixApp.pdb
+C:\Users\Conrad\Desktop\New folder\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csprojResolveAssemblyReference.cache
+C:\Users\Conrad\Desktop\New folder\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Form1.resources
+C:\Users\Conrad\Desktop\New folder\NetflixApp\NetflixApp\obj\Debug\NetflixApp.Properties.Resources.resources
+C:\Users\Conrad\Desktop\New folder\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.GenerateResource.cache
+C:\Users\Conrad\Desktop\New folder\NetflixApp\NetflixApp\obj\Debug\NetflixApp.csproj.CoreCompileInputs.cache
+C:\Users\Conrad\Desktop\New folder\NetflixApp\NetflixApp\obj\Debug\NetflixApp.exe
+C:\Users\Conrad\Desktop\New folder\NetflixApp\NetflixApp\obj\Debug\NetflixApp.pdb
+C:\Users\Conrad\Desktop\New folder\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe.config
+C:\Users\Conrad\Desktop\New folder\NetflixApp\NetflixApp\bin\Debug\NetflixApp.exe
+C:\Users\Conrad\Desktop\New folder\NetflixApp\NetflixApp\bin\Debug\NetflixApp.pdb
